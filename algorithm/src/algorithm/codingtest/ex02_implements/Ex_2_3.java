@@ -1,5 +1,6 @@
 package algorithm.codingtest.ex02_implements;
 
+//왕실의 나이트 
 import java.util.ArrayList;
 
 public class Ex_2_3 {
